@@ -15,7 +15,7 @@
 
 **Core Software Engineering**
 
-- Software Requirements
+- [Software Requirements](/core/SOFTWARE_REQUIREMENTS.md)
 - Software Architecture and Design
 - Software Engineering Models and Methods
 - Software Construction
