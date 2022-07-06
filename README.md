@@ -10,7 +10,7 @@
 - [Software Engineering Professional Practice](/foundations/SOFTWARE_ENGINEERING_PROFESSIONAL_PRACTICE.md)
 - [Foundations of Engineering](/foundations/FOUNDATIONS_OF_ENGINEERING.md)
 - [Mathematics for Software Engineering](/foundations/MATHEMATICS_FOR_SOFTWARE_ENGINEERING.md)
-- Foundations of Computing
+- [Foundations of Computing](/foundations/FOUNDATIONS_OF_COMPUTING.md)
 - Software Engineering Processing
 
 **Core Software Engineering**
