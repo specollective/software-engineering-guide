@@ -8,7 +8,7 @@
 
 - [Introduction to Software Engineering](/foundations/INTRODUCTION_TO_SOFTWARE_ENGINEERING.md)
 - [Software Engineering Professional Practice](/foundations/SOFTWARE_ENGINEERING_PROFESSIONAL_PRACTICE.md)
-- Foundations of Engineering
+- [Foundations of Engineering](/foundations/FOUNDATIONS_OF_ENGINEERING.md)
 - Mathematics for Software Engineering
 - Foundations of Computing
 - Software Engineering Processing
