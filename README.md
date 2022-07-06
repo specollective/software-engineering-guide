@@ -4,7 +4,7 @@
 
 **Foundations of Software Engineering**
 
-- Introduction to Software Engineering
+- [Introduction to Software Engineering](/foundations/INTRODUCTION_TO_SOFTWARE_ENGINEERING.md)
 - Software Engineering Professional Practice
 - Foundations of Engineering
 - Mathematics for Software Engineering
