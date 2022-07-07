@@ -20,7 +20,7 @@ Interested in learning more about this project? Please email us at [info@specoll
 **Core Software Engineering**
 
 - [Software Requirements](/core/SOFTWARE_REQUIREMENTS.md)
-- Software Architecture and Design
+- [Software Architecture and Design](/core/SOFTWARE_ARCHITECTURE_AND_DESIGN.md)
 - Software Engineering Models and Methods
 - Software Construction
 - Software Development Tools and Frameworks
