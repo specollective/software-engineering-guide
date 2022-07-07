@@ -11,7 +11,7 @@
 - [Foundations of Engineering](/foundations/FOUNDATIONS_OF_ENGINEERING.md)
 - [Mathematics for Software Engineering](/foundations/MATHEMATICS_FOR_SOFTWARE_ENGINEERING.md)
 - [Foundations of Computing](/foundations/FOUNDATIONS_OF_COMPUTING.md)
-- Software Engineering Process
+- [Software Engineering Process](/foundations/SOFTWARE_ENGINEERING_PROCESS.md)
 
 **Core Software Engineering**
 
