@@ -21,9 +21,7 @@ Interested in learning more about this project? Please email us at [info@specoll
 
 - [Software Requirements](/core/SOFTWARE_REQUIREMENTS.md)
 - [Software Architecture and Design](/core/SOFTWARE_ARCHITECTURE_AND_DESIGN.md)
-- Software Engineering Models and Methods
-- Software Construction
-- Software Development Tools and Frameworks
+- [Software Construction](/core/SOFTWARE_CONSTRUCTION.md)
 - Software Testing
 - Software Maintainence
 - Software Configuration Management
@@ -31,6 +29,7 @@ Interested in learning more about this project? Please email us at [info@specoll
 
 **Advanced Software Engineering**
 
+- Software Engineering Models and Methods
 - Software Engineering Management
 - Software Engineering Economics
 - Software Systems Engineering
