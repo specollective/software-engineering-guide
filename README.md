@@ -6,9 +6,9 @@ The Software Engineering Guide (SWEG) is an open repository of software engineer
 
 Interested in learning more about this project? Please email us at [info@specollective.org](mailto:info@specollective.org).
 
-# Table of Contents
+# Foundations of Software Engineering
 
-**Foundations of Software Engineering**
+Build foundational knowledge in the areas of computing, mathmematics, and engineering that are building blocks of software engineering.
 
 - [Introduction to Software Engineering](/foundations/INTRODUCTION_TO_SOFTWARE_ENGINEERING.md)
 - [Software Engineering Professional Practice](/foundations/SOFTWARE_ENGINEERING_PROFESSIONAL_PRACTICE.md)
@@ -17,17 +17,21 @@ Interested in learning more about this project? Please email us at [info@specoll
 - [Foundations of Computing](/foundations/FOUNDATIONS_OF_COMPUTING.md)
 - [Software Engineering Process](/foundations/SOFTWARE_ENGINEERING_PROCESS.md)
 
-**Core Software Engineering**
+# Core Software Engineering Practices
+
+Learn core concepts, patterns, tools, and frameworks that are essential to software engineering professional practice.
 
 - [Software Requirements](/core/SOFTWARE_REQUIREMENTS.md)
 - [Software Architecture and Design](/core/SOFTWARE_ARCHITECTURE_AND_DESIGN.md)
 - [Software Construction](/core/SOFTWARE_CONSTRUCTION.md)
-- Software Testing
-- Software Maintainence
-- Software Configuration Management
-- Software Quality
+- [Software Testing](/core/SOFTWARE_TESTING.md)
+- [Software Maintainence](/core/SOFTWARE_MAINTAINENCE.md)
+- [Software Configuration Management](/core/SOFTWARE_CONFIGURATION_MANAGEMENT)
+- [Software Quality](/core/SOFTWARE_QUALITY.md)
 
-**Advanced Software Engineering**
+# Advanced Software Engineering Topics
+
+Explore advanced topics in software engineering, computer science, computer engineering, mathematics, and systems engineering.
 
 - Software Engineering Models and Methods
 - Software Engineering Management
