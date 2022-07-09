@@ -12,7 +12,8 @@ This section focuses on knowledge about computers and the underlying principles 
 - Programming Fundamentals
 - Programming Language Basics
 - Debugging Tools and Techniques
-- [Data Structures and Algorithms](foundations-of-computing/DATA_STRUCTURES_AND_ALGORITHMS.md)
+- [Data Structures and Representation](foundations-of-computing/DATA_STRUCTURES_AND_REPRESENTATION.md)
+- [Algorithms and Complexity](foundations-of-computing/ALGORITHMS_AND_COMPLEXITY.md)
 - Database Basics and Data Management
 - Basics Network Communications
 - Parallel and Distributed Computing
