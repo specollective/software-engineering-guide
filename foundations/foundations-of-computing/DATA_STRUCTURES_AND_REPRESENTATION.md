@@ -6,6 +6,6 @@ Computer programs operate on data. Before a program can process data, the data m
 
 - Arrays
 - Hashes
-- Graphs
+- [Graphs](/foundations/foundations-of-computing)
 - Trees
 - Linked Lists
