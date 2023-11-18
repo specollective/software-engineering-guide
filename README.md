@@ -2,6 +2,8 @@
 
 The Software Engineering Guide (SWEG) is an open repository of software engineering knowledge. The SWEG is designed to be a practical framework for developing a comprehensive understanding of software engineering and modern software development. The guide includes practical guidance for self-directed learning, career training, and professional development.
 
+🚧 This project is actively under development and should be considered in complete. 🚧
+
 Interested in learning more about this project? Please email us at [info@specollective.org](mailto:info@specollective.org).
 
 ## Purpose of the Guide
