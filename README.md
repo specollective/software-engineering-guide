@@ -53,12 +53,13 @@ Learn core concepts, patterns, tools, and frameworks that are essential to softw
 
 Explore advanced topics in software engineering, computer science, computer engineering, mathematics, and systems engineering.
 
-- Software Engineering Models and Methods
-- Software Engineering Management
-- Software Engineering Economics
-- Software Systems Engineering
-- Site Reliability Engineering
+- [DevOps](/advanced/DEV_OPS.md)
 - Embedded Systems Programming
-- Mobile Application Development
 - Machine Learning Engineering
-- Data Engineering
+- Mobile Application Development
+- Site Reliability Engineering
+- Software Engineering Economics
+- Software Engineering Management
+- Software Engineering Models and Methods
+- Software Systems Engineering
+
